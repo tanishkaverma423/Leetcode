@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tanishkaverma423/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/tanishkaverma423/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/tanishkaverma423/Leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishkaverma423/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/tanishkaverma423/Leetcode/tree/master/0058-length-of-last-word) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tanishkaverma423/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tanishkaverma423/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
