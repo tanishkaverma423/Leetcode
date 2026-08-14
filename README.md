@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanishkaverma423/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/tanishkaverma423/Leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishkaverma423/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1920-build-array-from-permutation](https://github.com/tanishkaverma423/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanishkaverma423/Leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/tanishkaverma423/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
