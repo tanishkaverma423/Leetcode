@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanishkaverma423/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/tanishkaverma423/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishkaverma423/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/tanishkaverma423/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishkaverma423/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1470-shuffle-the-array](https://github.com/tanishkaverma423/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanishkaverma423/Leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanishkaverma423/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
