@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/tanishkaverma423/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tanishkaverma423/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/tanishkaverma423/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1710-maximum-units-on-a-truck](https://github.com/tanishkaverma423/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/tanishkaverma423/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanishkaverma423/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanishkaverma423/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishkaverma423/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1710-maximum-units-on-a-truck](https://github.com/tanishkaverma423/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Linked List
 |  |
 | ------- |
@@ -132,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanishkaverma423/Leetcode/tree/master/0011-container-with-most-water) |
+| [1710-maximum-units-on-a-truck](https://github.com/tanishkaverma423/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
